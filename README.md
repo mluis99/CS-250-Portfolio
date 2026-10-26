@@ -1,5 +1,6 @@
 # CS-250-Portfolio
 SNHU CS-250
+Luis Morales Salgado
 
 How do I interpret user needs and implement them into a program? How does creating user stories help with this? 
 User stories help make expectations clear and make it easier to understand what the user actually wants. The SNHU Travel project was a good example because the requirements changed when the project moved more toward a wellness travel portal. Since the stories were broken into smaller pieces, we could adjust the work as needed without having to redo everything. Smaller stories also made the work easier because we could change smaller details and still keep moving forward. 
